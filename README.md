@@ -59,10 +59,6 @@ Contributions to this project are welcome! If you have improvements, bug fixes, 
 3. Make your changes and test them.
 4. Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to explore the RV32I datapath and experiment with different instructions. If you have any questions or encounter any issues, please don't hesitate to open an issue on this GitHub repository. Happy simulating!
